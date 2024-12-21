@@ -1,0 +1,2 @@
+Main-Class: LUBank
+Class-Path: ojdbc11.jar
