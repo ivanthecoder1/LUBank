@@ -15,7 +15,7 @@ A mock bank system created for Lehigh University students.
 - User can transfer money to other accounts
 - Users can view account balances and transaction history
 
-## How to Run the Application Manually
+## How to run
 - Run javac LUBank.java which will create a LUBank.class
 - Move LUBank.class into parent directory 
 - CD back to parent directory
